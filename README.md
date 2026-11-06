@@ -1,7 +1,7 @@
 # AvaTune
 **DEMO**
 ![Image](https://github.com/user-attachments/assets/860b410d-b5aa-4a46-92cd-ce068fe74583)
-- [Demo Project](https://ovo-market-i09v7hw0b-unlimited-49ac.vercel.app/)
+- [Demo Project](https://ovo-market.vercel.app/)
 - Developed by AmirMohammad Ahadi
 - Created - 2026-07-11
 - 🤖 Technologies Used - Html , Tailwind ,  Zustand , Next.JS

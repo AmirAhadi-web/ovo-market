@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="تصویر محصول">
+  <rect width="400" height="400" fill="#F1F5F9"/>
+  <g fill="none" stroke="#CBD5E1" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="110" y="130" width="180" height="150" rx="16" fill="#E2E8F0"/>
+    <circle cx="163" cy="183" r="18" fill="#CBD5E1" stroke="none"/>
+    <path d="M110 250l52-46 42 38 48-42 38 34"/>
+  </g>
+</svg>

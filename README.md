@@ -1,6 +1,6 @@
 # AvaTune
 **DEMO**
-![Image](https://github.com/user-attachments/assets/3f58434e-7078-4ed4-ac93-569e3b37961d)
+![Image](https://github.com/user-attachments/assets/860b410d-b5aa-4a46-92cd-ce068fe74583)
 - [Demo Project](https://ovo-market-i09v7hw0b-unlimited-49ac.vercel.app/)
 - Developed by AmirMohammad Ahadi
 - Created - 2026-07-11
